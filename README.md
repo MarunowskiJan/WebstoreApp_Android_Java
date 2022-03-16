@@ -2,7 +2,8 @@
 Mobile application of the online store, which was made in the Android Studio, Java technology.
 
 ## What the app looks like
-![alt_text](https://github.com/MarunowskiJan/TemperatureCharts_PythonProject/blob/main/screenshots/Python_project.PNG)
+- Home page
+![alt_text](https://github.com/MarunowskiJan/WebstoreApp_Android_Java/blob/main/screenshots/Java_Homepage.PNG)
 
 ## How to run the app
 1. Open Visual Studio Code.
