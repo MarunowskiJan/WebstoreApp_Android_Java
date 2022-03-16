@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WebStore</string>
+    <string name="web_store_app">Sklep internetowy</string>
+    <string name="todo">TODO</string>
+    <string name="get_started">Zaczynajmy!</string>
+    <string name="welcome_user">Witaj Andrzej</string>
+    <string name="search_and_order">Szukaj i zamów</string>
+    <string name="winter_baner">/@winter_baner</string>
+    <string name="user_photo">/@user_photo</string>
+    <string name="homepage">Strona główna</string>
+    <string name="cart">Koszyk</string>
+    <string name="profile">Profil</string>
+    <string name="settings">Ustawienia</string>
+    <string name="kategorie">Kategorie</string>
+    <string name="polecane">Polecane</string>
+    <string name="wpisz_nazw_produktu">Wpisz nazwę produktu . .</string>
+    <string name="hint_text">Wpisz tutaj swoję imię . .</string>
+</resources>
