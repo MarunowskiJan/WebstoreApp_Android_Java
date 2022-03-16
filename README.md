@@ -10,7 +10,7 @@ Mobile application of the online store, which was made in the Android Studio, Ja
 ![alt_text](https://github.com/MarunowskiJan/WebstoreApp_Android_Java/blob/main/screenshots/IncreasingQuanityOfProduct.PNG)
 
 ## How to run the app
-1. Either fork or download the app and open the folder in the Visual Studio Code.
+1. Either fork or download the app and open the folder in the Android Studio.
 2. Open terminal and run this command "python -m pip install requests".
 3. Either fork or download the app and open the folder in  the Visual Studio Code.
 4. Run main.py.
